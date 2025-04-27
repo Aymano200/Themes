@@ -1,0 +1,228 @@
+{
+    "name": "ClearVision Dark Forest v1.2.6",
+    "description": "Clear Vision plunges into the depths of an emerald forest, where mystery reigns.",
+    "authors": [
+        {
+            "name": "Taki_Shiwa",
+            "id": "466968658997149706"
+        }
+    ],
+    "semanticColors": {
+        "ACTIVITY_CARD_BACKGROUND": [
+            "#1b3b28",
+            "#10291d",
+            "#1b3b28"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#0a1d14",
+            "#0a1d14",
+            "#0a1d14"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#2453401a",
+            "#1637281a",
+            "#2453401a"
+        ],
+        "BACKGROUND_MENTIONED_HOVER": [
+            "#2453401a",
+            "#1637281a",
+            "#2453401a"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#2453401a",
+            "#1637281a",
+            "#2453401a"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#081610",
+            "#081610",
+            "#081610"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#081610",
+            "#081610",
+            "#081610"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#1e4d3a",
+            "#1e4d3a",
+            "#1e4d3a"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#2f684b7a",
+            "#1e4d3a7a",
+            "#2f684b7a"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#1e4d3a26",
+            "#08161026",
+            "#1e4d3a26"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#1e4d3a26",
+            "#08161026",
+            "#1e4d3a26"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#2f684b99",
+            "#2f684b99",
+            "#2f684b99"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#0f2118",
+            "#a8d5ba",
+            "#000000"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#081610",
+            "#081610",
+            "#081610"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#11271d",
+            "#11271d",
+            "#11271d"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#06110c",
+            "#06110c",
+            "#06110c"
+        ],
+        "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
+            "#0f2118",
+            "#a8d5ba",
+            "#000000"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#3b4e41",
+            "#3b4e41",
+            "#3b4e41"
+        ],
+        "CHANNEL_ICON": [
+            "#2f684b4d",
+            "#2f684b4d",
+            "#2f684b4d"
+        ],
+        "CHAT_BACKGROUND": [
+            "#000000aa",
+            "#000000aa",
+            "#000000aa"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#5ba377",
+            "#5ba377",
+            "#5ba377"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#0f2118",
+            "#a8d5ba",
+            "#000000"
+        ],
+        "DEPRECATED_CARD_BG": [
+            "#0f2118",
+            "#a8d5ba",
+            "#000000"
+        ],
+        "DEPRECATED_CARD_EDITABLE_BG": [
+            "#0f2118",
+            "#a8d5ba",
+            "#000000"
+        ],
+        "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": [
+            "#0f2118",
+            "#a8d5ba",
+            "#000000"
+        ],
+        "DEPRECATED_STORE_BG": [
+            "#a8d5ba",
+            "#0f2118",
+            "#a8d5ba"
+        ],
+        "HEADER_PRIMARY": [
+            "#a8d5ba",
+            "#0f2118",
+            "#a8d5ba"
+        ],
+        "HEADER_SECONDARY": [
+            "#5ba377",
+            "#5ba377",
+            "#5ba377"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#5ba377",
+            "#5ba377",
+            "#5ba377"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#081610",
+            "#2f684b",
+            "#081610"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#5ba377",
+            "#5ba377",
+            "#5ba377"
+        ],
+        "TEXT_NORMAL": [
+            "#a8d5ba",
+            "#a8d5ba",
+            "#a8d5ba"
+        ],
+        "TEXT_MUTED": [
+            "#4e6958",
+            "#4e6958",
+            "#4e6958"
+        ],
+        "TEXT_LINK": [
+            "#5ba377",
+            "#5ba377",
+            "#5ba377"
+        ],
+        "STATUS_POSITIVE_BACKGROUND": [
+            "#2f684b",
+            "#1e4d3a",
+            "#2f684b"
+        ],
+        "STATUS_POSITIVE_TEXT": [
+            "#a8d5ba",
+            "#0f2118",
+            "#a8d5ba"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#5ba377",
+        "PRIMARY_130": "#5ba377",
+        "PRIMARY_200": "#5ba377",
+        "PRIMARY_300": "#2f684b",
+        "PRIMARY_360": "#2f684b",
+        "PRIMARY_400": "#1e4d3a",
+        "PRIMARY_460": "#081610",
+        "PRIMARY_500": "#2f684b",
+        "PRIMARY_560": "#0f2118",
+        "PRIMARY_600": "#081610",
+        "WHITE_500": "#a8d5ba",
+        "GREEN_360": "#2f684b"
+    },
+    "background": {
+        "url": "https://images.unsplash.com/photo-1604147706288-66c06f08763f?fit=crop&w=1200&q=80"
+    },
+    "plus": {
+        "version": 0,
+        "customOverlays": true,
+        "icons": {
+            "ic_mic_neutral": "#0f2118",
+            "ic_mic_muted_neutral": "#0f2118",
+            "ic_soundboard": "#0f2118",
+            "ic_soundboard_muted": "#0f2118",
+            "ic_video": "#0f2118",
+            "ic_video_disabled": "#0f2118"
+        },
+        "iconpack": "rosiecord-plumpy"
+    },
+    "spec": 2
+}
